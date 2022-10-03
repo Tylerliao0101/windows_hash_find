@@ -11,9 +11,8 @@
 |test     |edbbbf2452b456deda2e125a2ea4aa0e|
 |xmring   |8618d80b774669b7358d377e00d5b0f1|
 
-#### 透過撰寫ps1，進行搜尋
 
-#### 執行方式
+## 執行方式
 #### 透過powershell執行檔案
 ```
 .\windows_Hash_find.ps1
