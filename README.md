@@ -13,6 +13,10 @@
 
 
 ## 執行方式
+
+### psl 檔案搜尋位置
+#### 可以調整Get-ChildItem 後面的路徑，該檔案預設為D:\
+
 #### 透過powershell執行檔案
 ```
 .\windows_Hash_find.ps1
