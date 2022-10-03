@@ -1,0 +1,1 @@
+(Get-FileHash -Algorithm MD5 -Path (Get-ChildItem "D:\*.*" -Recurse)) |where-object  { $_.Hash -match "986afc16d01d2c5c03022dc74433214a|f86306def0ca642afe8cdd028a9b236e|e69dc5369868c6d6b5b78c2f12829906|edbbbf2452b456deda2e125a2ea4aa0e|8618d80b774669b7358d377e00d5b0f1"}
